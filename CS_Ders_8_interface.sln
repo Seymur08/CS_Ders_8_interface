@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Ders_8_interface", "CS_Ders_8_interface\CS_Ders_8_interface.csproj", "{013A9D72-A6F3-47D1-BCFB-064F37022AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{013A9D72-A6F3-47D1-BCFB-064F37022AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013A9D72-A6F3-47D1-BCFB-064F37022AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013A9D72-A6F3-47D1-BCFB-064F37022AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013A9D72-A6F3-47D1-BCFB-064F37022AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {411F7A4E-77A2-4E24-BD6C-429F5773A756}
+	EndGlobalSection
+EndGlobal
